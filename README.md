@@ -26,10 +26,9 @@ In one of the runs, blank items started to appear between list items. They delet
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<iframe src="https://giphy.com/embed/B0dc67mXhhKlSWWZdt" width="305" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/B0dc67mXhhKlSWWZdt">via GIPHY</a></p>
-
+![Alt Text](https://media.giphy.com/media/B0dc67mXhhKlSWWZdt/giphy.gif)
 
 ## Notes
 
